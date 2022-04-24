@@ -1,4 +1,4 @@
-# WPU Javascript Intermediate
+# WPU Tailwind
 
 [![Build Status](https://travis-ci.org/dwyl/esta.svg?branch=master)](https://github.com/handokoadjip/project-learn-wpu-tailwind)
 [![stability-experimental](https://img.shields.io/badge/stability-experimental-orange.svg)](https://github.com/handokoadjip/project-learn-wpu-tailwind)
